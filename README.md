@@ -2,8 +2,7 @@
 
 * Instructor Navya Annapareddy
 * Email: navya@virginia.edu
-* TA: Hilde Younce
-* Class Location: Data Science Room 306
+* Class Location: Data Science Room 305
 
 Course Materials: [Foundations of Machine Learning Repo](https://github.com/UVADS/DS-3001/3021)
 
@@ -51,11 +50,11 @@ The course will move rather quickly and can be demanding at times. However, you�
 On any given week, the course will require reviewing short video lectures and completing readings prior to coming to class.  These lectures and readings will then be implemented in the lab portion of the course which will be conducted during the scheduled class period.  Lab sessions will include a variety of activities but mostly be centered on team-oriented coding assignments.  Students can also use lab sessions to work on mid-term and final projects when needed.
 
 Grading Breakdown:
-Quizzes (15%) – Each module will feature 1 or 2 short summary quizzes (5 in total). They will be
+Quizzes (25%) – Each module will feature 1 or 2 short summary quizzes (5 in total). They will be
 open-note and auto-graded by Canvas. You are allowed unlimited chances to complete the quiz and as
 such, feedback for specific questions will be hidden. Quizzes should be completed individually.
 
-Labs (60%) – We will have 4 in-class lab assignments throughout the class. Labs are designed to allow
+Labs (50%) – We will have 4 in-class lab assignments throughout the class. Labs are designed to allow
 you to practice the skills being presented in class. While they will be submitted individually, you are
 encouraged to work with your peers to the best of your interest. Labs will be submitted on Canvas and
 while individual submission requirements will differ for each week, you will typically need to submit:
